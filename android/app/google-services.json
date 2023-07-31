@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192354679188",
+    "project_id": "bilal-project-990f4",
+    "storage_bucket": "bilal-project-990f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192354679188:android:52da681b71fbac7c68b781",
+        "android_client_info": {
+          "package_name": "com.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192354679188-sc1jrfr3vhtk723e81uefhu1ltfj7v8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRmp-I4WsvxoiaQ3bKWRBtfF7LHcjurg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192354679188-sc1jrfr3vhtk723e81uefhu1ltfj7v8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
